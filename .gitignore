@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite
+dist/
+.vite/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# dotenv files (si usas configuración por entorno)
+.env
+.env.*.local
+
+# Build
+build/
+out/
+
+# Cache
+.cache/
+.eslintcache/
+.parcel-cache/
+
+# Optional: system file backups
+*~
