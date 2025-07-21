@@ -1,15 +1,15 @@
-# 🐔 Crossy Road Clone (Three.js)
+# Crossy Road Clone (Three.js)
 
 Este proyecto es una recreación en 3D del clásico juego *Crossy Road*, desarrollada con *Three.js* y *Blender*. El jugador controla a un personaje que debe avanzar por diferentes terrenos, evitando obstáculos como árboles y vehículos en movimiento.
 
-## 🛠️ Instalación
+## Instalación
 
 1. **Clona el repositorio:**
 
    ```bash
    git clone https://github.com/tu-usuario/crossy-road-threejs.git
    cd crossy-road-threejs
-````
+   ```
 
 2. **Instala las dependencias:**
 
@@ -36,7 +36,7 @@ Este proyecto es una recreación en 3D del clásico juego *Crossy Road*, desarro
 * `←` Izquierda (left)
 * `→` Derecha (right)
 
-## 🖼️ Capturas
+## Capturas
 
 ![Captura 1](./images/image-01.png)
 
